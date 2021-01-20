@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "README"
 author: "Kenneth Day"
@@ -23,3 +24,6 @@ In accordance with the desired output, all of the measurement columns not repres
 The original data comes from the following source:
 
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+=======
+# getting_and_cleaning_data
+>>>>>>> 75b3afaf77c2bdb7c75f48e1141468a9630c6d1a
