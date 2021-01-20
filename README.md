@@ -5,6 +5,7 @@ date: "January 19, 2021"
 output: html_document
 ---
 
+
 ## Purpose of "run_analysis.r"
 
 The purpose of the "run_analysis.r" script is to produce a data table that shows the average of the different variables containing mean and standard deviation for each grouping of activity and subject.
